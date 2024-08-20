@@ -86,7 +86,7 @@ The AWS SAM CLI reads the application template to determine the API's routes and
         Api:
           Type: Api
           Properties:
-            Path: /
+            Path: /items
             Method: GET
 ```
 
